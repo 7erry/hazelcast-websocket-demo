@@ -4,7 +4,7 @@ To run this demo you'll need a copy of Tomcat or another Web Container with supp
 Build the project with `mvn clean install -DskipTests`<br/>
 
 Start the test:<br/>
-mvn tests<br/>
+mvn test<br/>
 
 Install Tomcat webserver:<br/>
 OSX>brew install tomcat<br/>
@@ -25,7 +25,7 @@ Load up the Swing consumer:<br/>
 hazelcast-client/controller.Controller.main<br/>
 
 Swing Interface - WebSocket Consuming Stock updates<br/>
-![](./images/SwingInterface.png)
+![](./images/WebInterface.png)
 <br/>
 Web Interface - WebSocket Consuming Stock updates<br/>
 ![](./images/WebInterface.png)
