@@ -32,7 +32,7 @@ public class StockMapEntryListenerTest {
 	final static Random random = new Random();
 
 	final static LinkedHashMap<String, StockRecord> stockMap = new LinkedHashMap<String, StockRecord>() {{
-		put("C2B2", new StockRecord("C2B2", "C2B2 Consulting Limited", roundResult(new BigDecimal(generateInitialPrice()))));
+		put("HAZ", new StockRecord("HAZ", "Hazelcast", roundResult(new BigDecimal(generateInitialPrice()))));
 		put("TPK", new StockRecord("TPK", "Travis Perkins Limited", roundResult(new BigDecimal(generateInitialPrice()))));
 		put("ORL", new StockRecord("ORL", "Oracle", roundResult(new BigDecimal(generateInitialPrice()))));
 		put("BPL", new StockRecord("BPL", "British Petroleum", roundResult(new BigDecimal(generateInitialPrice()))));
