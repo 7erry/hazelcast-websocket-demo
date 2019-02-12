@@ -25,7 +25,7 @@ Load up the Swing consumer:<br/>
 hazelcast-client/controller.Controller.main<br/>
 
 <br/>
-![alt text](https://raw.githubusercontent.com/7erry/hazelcast-websocket-demo/images/SwingInterface.png)<br/>
-![alt text](https://raw.githubusercontent.com/7erry/hazelcast-websocket-demo/images/WebInterface.png)<br/>
-![alt text](https://raw.githubusercontent.com/7erry/hazelcast-websocket-demo/images/TestDataOutput.png)<br/>
+![alt text](images/SwingInterface.png?raw=true)
+![alt text](images/WebInterface.png?raw=true)
+![alt text](images/TestDataOutput.png?raw=true)
 <br/>
