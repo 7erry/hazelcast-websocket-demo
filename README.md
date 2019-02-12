@@ -25,7 +25,7 @@ Load up the Swing consumer:<br/>
 hazelcast-client/controller.Controller.main<br/>
 
 <br/>
-![alt text](images/SwingInterface.png?raw=true)
-![alt text](images/WebInterface.png?raw=true)
-![alt text](images/TestDataOutput.png?raw=true)
+![](./images/SwingInterface.png)
+![](./images/WebInterface.png)
+![](./images/TestDataOutput.png)
 <br/>
