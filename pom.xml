@@ -21,7 +21,7 @@
 	<dependencyManagement>
 		<dependencies>
             <dependency>
-                <grouk.co.c2b2upId>ch.qos.logback</groupId>
+                <grouupId>ch.qos.logback</groupId>
                 <artifactId>logback-classic</artifactId>
                 <version>${logback-version}</version>
             </dependency>
