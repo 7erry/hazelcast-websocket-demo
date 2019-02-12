@@ -2,7 +2,7 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 	<parent>
-		<groupId>uk.co.c2b2</groupId>
+		<groupId>demo.hazelcast</groupId>
 		<artifactId>hazelcast-websocket-demo</artifactId>
 		<version>0.0.1-SNAPSHOT</version>
 	</parent>
@@ -38,7 +38,7 @@
 			<artifactId>jfreechart</artifactId>
 		</dependency>
 		<dependency>
-			<groupId>uk.co.c2b2</groupId>
+			<groupId>demo.hazelcast</groupId>
 			<artifactId>hazelcast-shared</artifactId>
 			<version>${project.version}</version>
 		</dependency>
