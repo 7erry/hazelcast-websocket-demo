@@ -15,7 +15,11 @@ OSX>vi /Users/yournamehere/homebrew/Cellar/tomcat/9.0.16/libexec/conf/tomcat-use
 Start tomcat in the foreground (testing purposes)
 OSX>catalina run
 
+Deploy /hazelcast-web
+http://localhost:8080/manager/html
+
 Load up the stockticker.jsp
 open http://localhost:8080/hazelcast-web/stockticker.jsp
 
-
+Load up the Swing consumer:
+hazelcast-client/controller.Controller.main
