@@ -24,8 +24,12 @@ open http://localhost:8080/hazelcast-web/stockticker.jsp<br/>
 Load up the Swing consumer:<br/>
 hazelcast-client/controller.Controller.main<br/>
 
-![Swing Interface - WebSocket Consuming Stock updates](./images/SwingInterface.png)
-
-![Web Interface - WebSocket Consuming Stock updates](./images/WebInterface.png)
-
+Swing Interface - WebSocket Consuming Stock updates<br/>
+![](./images/SwingInterface.png)
+<br/>
+Web Interface - WebSocket Consuming Stock updates<br/>
+![](./images/WebInterface.png)
+<br/>
+Stock Ticker Updater<br/>
 ![Stock Ticker Updater](./images/TestDataOutput.png)
+<br/>
